@@ -13,11 +13,11 @@ Key Features:
    Extensive exploratory data analysis is performed to uncover patterns, trends, and correlations within the dataset.
    Visualizations such as histograms, heatmaps, and scatter plots are utilized to gain insights into user preferences, popular       genres, and overall movie ratings.
 
-3)Text Analysis using Bag-of-Words:
+3) Text Analysis using Bag-of-Words:
   The bag-of-words technique is applied to analyze textual data, including movie titles and user reviews.
   Text preprocessing involves tokenization, stemming, and vectorization to convert textual information into a format suitable for    analysis.
 
-4)Recommendation Engine:
+4) Recommendation Engine:
   A sophisticated recommendation engine is developed, incorporating collaborative filtering and content-based filtering methods.
   The engine suggests movies based on user profiles, preferences, and similarity with other users.
 
