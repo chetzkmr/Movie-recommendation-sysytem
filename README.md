@@ -1,7 +1,7 @@
 # Movie-recommendation-sysytem
 ## Movie Recommendation System using Data Analysis and Bag-of-Words
 
-Overview
+## Overview
 
 ## Welcome to the Movie Recommendation System data analysis project! This project aims to build an effective movie recommendation system using the Bag of Words (BoW) approach. The recommendation system leverages natural language processing techniques to analyze movie reviews and provide personalized movie suggestions to users.
 
